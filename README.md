@@ -20,3 +20,10 @@ Generated Fakes training (from 112th kimg to 469th kimg) video on YouTube:
   <a href="https://www.youtube.com/watch?v=mLYMi5cOCaw"><img src="https://www.dropbox.com/s/j4fvh1rxqtjcr3y/FE_video_thumbnail.png?raw=1" alt="IMAGE ALT TEXT"></a>
 </div>
 
+References:
+
+Steam StyleGAN2 by woctezuma: https://github.com/woctezuma/steam-stylegan2
+
+The original StyleGAN2 repository: https://github.com/NVlabs/stylegan2
+
+woctezuma's fork of StyleGAN2: https://github.com/woctezuma/stylegan2 for easy saving results in google drive. 
