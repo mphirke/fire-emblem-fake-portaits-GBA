@@ -2,7 +2,7 @@
 ### I will update the examples as the training continues (Current progress: 9 hours trainin on Colab, 469 kimgs passed). 
 
 Real examples of Fire Emblem GBA portaits:
-![Real Fire Emblem Portraits GBA](https://raw.githubusercontent.com/mphirke/fire-emblem-fake-portaits-GBA/master/media/Reals_example.png)
+![Real Fire Emblem Portraits GBA]()
 
 Generated Fakes Example (469th kimg):
 ![Generated Fakes Example](https://raw.githubusercontent.com/mphirke/fire-emblem-fake-portaits-GBA/master/media/fakes0469_example.png)
