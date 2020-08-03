@@ -14,13 +14,14 @@ I am in process of updating the dataset with more images soon to achieve more va
 
 If you intend to use those sprites for training, please ask the artists for permission before you use their sprites. Remember, the input to StyleGAN must be a square (with power of 2, so example valid size is 64x64, 128x128, 32x32, etc), and all inputs must have the same size, so if you are using half-bodies, for example, you will have to crop and resize them down.
 
-**Generated Fakes Example (469th kimg):**
+**Generated Fakes Example (480 kimg):**
+![Some handpicked fakes](https://raw.githubusercontent.com/mphirke/fire-emblem-fake-portaits-GBA/master/media/fakes_example.png)
 ![Generated Fakes Example](https://raw.githubusercontent.com/mphirke/fire-emblem-fake-portaits-GBA/master/media/fakes0469_example.png)
 
-### I will update the examples as the training continues, but for now I cannot use Colab GPU for a while. (Current progress: 9 hours training on Colab, 469 kimgs passed). 
+### I will update the examples as the training continues, but for now I cannot use Colab GPU for a while. (Current progress: 9 hours training on Colab, 480 kimgs passed). 
 
 
-**Generated Fakes training (from 112th kimg to 469th kimg) video on YouTube:**
+**Generated Fakes training (from 0th kimg to 480th kimg) video on YouTube:**
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=mLYMi5cOCaw"><img src="https://www.dropbox.com/s/j4fvh1rxqtjcr3y/FE_video_thumbnail.png?raw=1" alt="IMAGE ALT TEXT"></a>
