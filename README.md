@@ -27,7 +27,7 @@ If you intend to use those sprites for training, please ask the artists for perm
 **Generated Fakes training (from 0th kimg to 480th kimg) video on YouTube:**  
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=mLYMi5cOCaw"><img src="https://www.dropbox.com/s/j4fvh1rxqtjcr3y/FE_video_thumbnail.png?raw=1" alt="IMAGE ALT TEXT"></a>
+  <a href="https://www.youtube.com/watch?v=DKpNqQ-9sAI"><img src="https://www.dropbox.com/s/j4fvh1rxqtjcr3y/FE_video_thumbnail.png?raw=1" alt="IMAGE ALT TEXT"></a>
 </div>
 
 This is still a work in progress.
