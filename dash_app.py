@@ -58,7 +58,7 @@ def select_random_pickle(selected_value):
 
 img_no = 50
 
-app = JupyterDash(external_stylesheets=[dbc.themes.BOOTSTRAP])
+app = JupyterDash(external_stylesheets=[dbc.themes.DARKLY])
 server = app.server
 
 navbar = dbc.NavbarSimple(
