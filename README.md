@@ -20,7 +20,7 @@ Demo_FE_GBA_Portraits.ipynb ` here on Github (scroll up) and then press the butt
 2. [Fire Emblem Mugs](https://www.deviantart.com/atey/art/Fire-Emblem-Mugs-216376087) by [Atey](https://www.deviantart.com/atey) who has posted the linked portraits for use freely.
 3. [Servants from FateGO in the GBA portrait style](https://www.reddit.com/r/fireemblem/comments/c1c74a/servants_from_fatego_in_the_gba_portrait_style/), [Collection of Fire Emblem Fates GBA Mugs](https://www.reddit.com/r/fireemblem/comments/4b0ra9/collection_of_fire_emblem_fates_gba_mugs/), [Nohr in GBA Style](https://www.reddit.com/r/fireemblem/comments/3xmweg/nohr_in_gba_style/) by u/[Toaomr](https://www.reddit.com/user/Toaomr) on Reddit and Twitter : [@toaomr](https://twitter.com/toaomr)
 4. [Fire Emblem Custom mug GBA spread sheet](https://www.deviantart.com/caringcarrot/art/Fire-Emblem-Custom-mug-GBA-Sprite-Sheet-804177772) by [caringcarrot](https://www.deviantart.caom/caringcarrot)
-
+5. Free to use NICKT collection by [NICKT](https://feuniverse.us/u/NICKT)
 
 If you intend to use those sprites for training, please ask the artists. I will not redistribute their works so don't ask me. If you want to add your own sprites and train, remember, the input to StyleGAN must be a square image(with dimensions in power of 2, so example valid size is 64x64, 128x128, 32x32, etc), and all inputs must have the same size, so if you are using half-bodies, for example, you will have to crop and resize them down.
 
